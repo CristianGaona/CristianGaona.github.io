@@ -1075,3 +1075,10 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+.progress-line {
+  height: 2px;
+  background-color: #007bff; /* Color de la línea, puedes ajustarlo según tu preferencia */
+  border: none;
+  margin-top: 5px; /* Ajusta el margen superior según sea necesario */
+}
